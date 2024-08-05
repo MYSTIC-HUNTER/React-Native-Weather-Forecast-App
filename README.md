@@ -1,6 +1,6 @@
 🌦️ React Native Weather App! 📱🎉
 
-I'm thrilled to announce the launch of my latest project - a React Native Weather App built entirely with TypeScript! 🚀
+I'm thrilled to announce the launch of my latest project - a React Native Weather App built entirely with React Native & TypeScript! 🚀
 
 Using cutting-edge technologies like `React Native`, `Expo Location`, and leveraging the power of `Weather APIs`, I've crafted a user-friendly application that provides accurate weather information at your fingertips. Whether you're planning your day or preparing for your next adventure, this app has got you covered with weather forecasts.
 
