@@ -6,7 +6,7 @@ Using cutting-edge technologies like `React Native`, `Expo Location`, and levera
 
 ## Here are some highlights of the app:
 
-- 📍 integratied Expo Location for precise weather data based on your current location.
+- 📍 Integrated Expo Location for precise weather data based on your current location.
 - 🌈 Beautifully designed interface with intuitive navigation for effortless usability.
 - ⛅️ Access to up-to-date weather forecasts, including temperature, humidity, wind speed, and more.
 - 🔍 Advanced search functionality for finding weather information for specific locations.
